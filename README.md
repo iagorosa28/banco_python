@@ -18,8 +18,7 @@
 O objetivo deste projeto era desenvolver um sistema bancário simples em Python para aplicar o que aprendemos na disciplina de Fundamentos de Algoritmos ao longo do semestre.
 
 ## :mag_right: Funcionalidade
-1. Menu
-
+1. Menu:
 ![image](https://github.com/iagorosa28/banco_python/assets/125699322/4144b9b4-1761-4711-8f6a-cfb1f019f0d3)
 
 2. a
