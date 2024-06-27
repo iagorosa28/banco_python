@@ -1,12 +1,12 @@
-# Título do projeto
+# Banco QuemPoupaTem (Python)
 
 Antes mostra algumas informações do projeto
 
 > Status do projeto: Finalizado
 
-> Esse projeto nos foi proposto no 4ºSemestre na disciplina de Computação Móvel
+> Este projeto foi realizado no primeiro semestre do curso de Ciência da Computação, na disciplina de Fundamentos de Algoritmos, na FEI.
 
-> Programamos inicialmente esse projeto no tinkercad juntos, depois passamos para a IDE do Arduino logo que fizemos isso subimos o arquivo do Arduino IDE no GitHub  
+> Programamos inicialmente esse projeto no Visual Studio Code.
 
 ### Tópicos
 
