@@ -1,7 +1,5 @@
 # Banco QuemPoupaTem (Python)
 
-Antes mostra algumas informações do projeto
-
 > Status do projeto: Finalizado
 
 > Este projeto foi realizado no primeiro semestre do curso de Ciência da Computação, na disciplina de Fundamentos de Algoritmos, na FEI.
